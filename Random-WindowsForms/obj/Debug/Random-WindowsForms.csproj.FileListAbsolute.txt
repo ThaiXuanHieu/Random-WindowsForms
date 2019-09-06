@@ -1,0 +1,20 @@
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\bin\Debug\Random-WindowsForms.exe.config
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\bin\Debug\Random-WindowsForms.exe
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\bin\Debug\Random-WindowsForms.pdb
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.csprojAssemblyReference.cache
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random_WindowsForms.Form1.resources
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random_WindowsForms.Properties.Resources.resources
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.csproj.GenerateResource.cache
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.csproj.CoreCompileInputs.cache
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.exe
+G:\C# WindowsForms\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.pdb
+F:\Software\Random-WindowsForms\Random-WindowsForms\bin\Debug\Random-WindowsForms.exe.config
+F:\Software\Random-WindowsForms\Random-WindowsForms\bin\Debug\Random-WindowsForms.exe
+F:\Software\Random-WindowsForms\Random-WindowsForms\bin\Debug\Random-WindowsForms.pdb
+F:\Software\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.csprojAssemblyReference.cache
+F:\Software\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random_WindowsForms.Form1.resources
+F:\Software\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random_WindowsForms.Properties.Resources.resources
+F:\Software\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.csproj.GenerateResource.cache
+F:\Software\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.csproj.CoreCompileInputs.cache
+F:\Software\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.exe
+F:\Software\Random-WindowsForms\Random-WindowsForms\obj\Debug\Random-WindowsForms.pdb
